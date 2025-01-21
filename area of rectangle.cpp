@@ -9,6 +9,6 @@ int main()
 	a= l*b;
 	p= 2*(l+b);
 	printf ("the area of rectangle is:%.2f\n", a);
-	printf ("the parameter of rectangle is:%.2f\n", p);
+	printf ("the perimeter of rectangle is:%.2f\n", p);
 	return 0;
 }
