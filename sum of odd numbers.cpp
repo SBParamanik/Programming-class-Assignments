@@ -6,6 +6,6 @@ int main()
 	{
 		s=s+i;
 	}
-	printf("%d",s);
+	printf("sum of first 10 odd number is :%d",s);
 	return 0;
 }
